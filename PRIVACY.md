@@ -1,6 +1,6 @@
 # EarlyPatterns Privacy Policy
 
-_Last updated: 2026-05-16_
+_Last updated: 2026-05-17_
 
 EarlyPatterns does not collect, transmit, or store any user data.
 
